@@ -8,7 +8,7 @@ syntax:
 
 
 
-Dataset in the form of a csv file is present in the repository, and ensure proper file path in mentioned while being used.
+Dataset in the form of a csv file is present in the repository, and ensure proper file path is mentioned in the code while being used.
 The file path will be near the beginning of the code and inside pd.read_csv method.
 
 
