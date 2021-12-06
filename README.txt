@@ -2,7 +2,7 @@
 
 Ensure all the modules listed are present and installed prior to executing.
 Listed modules: numpy, pandas, matplotlib, seaborn, plotly, warnings, sklearn
-If any module is missing, install it from the command prompt.
+If any module is missing, install it from the command prompt (run as admin)
 syntax:
 	pip install xyz
 
